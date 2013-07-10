@@ -1,5 +1,4 @@
 import requests
-import pyquery
 
 class LoginFailure(Exception):
     pass
